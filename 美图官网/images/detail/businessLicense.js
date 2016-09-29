@@ -1,0 +1,1 @@
+document.write("<a href='http://xmwj.gov.cn/ei/Ei!certificate.action?id=40288a8556c64ea30156da8a8efd0036' target='_blank' style='border:0;'><img src='http://xmwj.gov.cn/ei/Ei!readEiImgByMemory.action' style='border:0;'/></a>")

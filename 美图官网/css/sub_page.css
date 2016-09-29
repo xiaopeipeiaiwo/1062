@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* ------- header ------- */
+.header_nav .header_nav_a2{color: #f8177c;}
+/* body{background:#f8f8f8; } */
+/* ------- sub_fit ------- */
+.sub_fit{height: 49px; width:100%; background: #f8f8f8;}
+.sub_fit .s_wrap{height: 49px;}
+.sub_fit a{font: 12px/49px ""; color: #636363;}
+.sub_fit span{font: 14px/49px ""; margin: 0 12px;}
+
+/* ------- sub_classic ------- */
+.sub_classic{height: 100px; width: 100%;}
+.sub_classic .s_wrap{height: 100px; background: #fff;}
+.sub_left{float: left; height: 88px; width: 66px; font: 14px/44px ""; color: #999; padding-top: 6px; padding-bottom: 6px; padding-left: 18px;}
+.sub_classic ul{float: left; height: 100px; width: 1058px;}
+.sub_classic ul li{float: left; font: 14px/44px ""; width: 132px;}
+.sub_classic ul li a{float: left; font: 14px/44px ""; color: #333;}
+.sub_classic ul li a:hover{color: #f8177c;}
+.sub_classic ul .all a{color: #f8177c;}
+
+.sub_classic ul .sub_top{padding-top: 6px; padding-bottom: 6px;}
+.sub_right{float: left; height: 88px; width: 58px; padding-top: 6px;}
+.sub_right a{ font: 14px/44px ""; color: #999; padding-left: 17px;}
+/* ------- sub_price ------- */
+.sub_price{height: 50px; width: 100%; background: #f8f8f8;}
+.sub_price .s_wrap{height: 50px; background: #f8f8f8;}
+
+/* ------- sub_new ------- */
+.sub_new{height: 2855px; width: 100%; background: #f8f8f8;}
+.sub_new .s_wrap{height: 2855px;}
+.sub_new ul{float:left; height: auto; background: #fff;width: 1200px;}
+.sub_new ul li{float: left; width: 299px; border-right: 1px solid #f0f0f0;}
+.sub_new ul .new_last{border:none;}
+.sub_new ul li div{float: left; position: relative;padding: 8px; height: 382px; width: 283px;border-bottom: 1px solid #f0f0f0;}
+.sub_new ul li .iconfont5{float: left; position: absolute; top:20px; right: 12px; font-family: "iconfont"; font-size:20px; line-height: 20px; font-style:normal; color: #fff; width: 20px; height: 20px; background: #e92076; border-radius: 50%;display: none;}
+.sub_new ul li .im1{float: left; height: 220px; width: 283px;padding-top: 30px;text-align: center;}
+.sub_new ul li .im_tp{float: left;height: 220px; width: 220px; padding-left: 40px; padding-right: 40px;}
+.sub_new ul li .im2{float:left;width: 283px; text-align: center; margin-top: 25px; height: 30px;}
+.sub_new ul li .im_bt{height: 30px; width: 30px; border:1px solid #f0f0f0;}
+.sub_new ul li h3{float: left; width: 283px; text-align: center; font: 14px/32px "";height: 32px;}
+.sub_new ul li h2{float: left;width: 283px; text-align: center; font: 14px/32px ""; height: 32px; color: #e92076;}

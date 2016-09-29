@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* ------- resign_center ------- */
+.resign_center{height: 530px; width: 100%; border-bottom: 1px solid #e5e5e5; padding-top: 70px;}
+.resign_center .pic_wrap{height: 530px;}
+.resign_center  .loca{padding-left: 150px; width: 966px; height: 530px;}
+.resign_center .phone{font:20px/34px "";  font-weight: 700; color: #666; position: relative; width: 655px; border-bottom: 2px solid #e1e1e1; }
+.resign_center .phone span{position: absolute; background: url("../images/sprite2.png") 0 -90px; height: 14px; width: 84px; top: 33px; left: 0;}
+
+.resign_phone{margin-top: 35px; height: 340px; width: 387px; float: left; border-right: 1px solid #e5e5e5;}
+.resign_phone ul li{height: 54px; position: relative;}
+.resign_phone ul li .test{float: left; font: 14px/54px ""; color: #4d4d4d;}
+.resign_phone ul li input{float: left; height: 30px; width: 210px; border: 1px solid #e5e5e5; margin-top: 10px; margin-left: 12px; border-radius: 3px; }
+.resign_phone ul li .bfr{float: left; font:12px/54px ""; margin-left: 7px; color: #888; display: block;}
+.resign_phone ul li .latr{float: left; margin-left: 7px;background: url("../images/sprite2.png") 0 -203px;  width: 21px; height: 19px; margin-top: 15px; display: none;}
+.resign_phone ul .psw input{width: 116px; text-indent: 6px;}
+.resign_phone ul .psw a{float: left;line-height: 32px; text-align: center; width: 90px; height:32px; border:1px solid #dadada; color: #c7c7c7; background: #e4e4e4; margin-top: 10px; border-radius: 3px;}
+.resign_phone .error{position: absolute; top:-30px; right: 103px; height: 26px; border:1px solid #ff8b34; background: #fdf0e0;  border-radius: 3px; display: none;}
+.resign_phone .test_error{right: 190px;}
+.resign_phone .error em{ float:left; background: url("../images/sprite2.png") -2px -179px; width: 12px; height: 12px; margin-right: 5px; margin-left: 11px; margin-top: 8px;}
+.resign_phone .error span{float: left; font: 12px/26px ""; padding-right: 11px; color: #888;}
+.arrow_down{ width:0; height:0px; border-left:6px solid transparent; border-right:6px solid transparent; border-top:6px solid #ff8b34; position: absolute; right: 14px; top: 26px;}
+
+
+.read{font: 14px/40px ""; margin-left: 70px; }
+.read input{margin-right: 8px; color: #4d4d4d; border-radius: 3px;}
+.resign{float: left; height: 46px; width: 110px; background: #fe4172; color: #fff; text-align: center; font: 14px/46px ""; border-radius: 3px;  margin-left: 70px; margin-top: 14px;}
+
+.resign_right{float: left; margin-top: 35px; height:340px; width: 220px; padding-left: 45px;}
+.resign_right p{width: 268px; font: 12px/32px ""; color: #4d4d4d;}
+.resign_right p a{font: 14px/32px ""; text-decoration: underline; color: #0088cc; font-weight: 700;}
+.resign_right h3{font: 14px/38px "";margin-top: 10px; color: #4d4d4d;}
+.resign_right .pic{float: left; margin-right: 15px;}
+.resign_right .pic0{background:url("../images/icon_thirdparty.png") -95px -6px; height: 29px; width: 29px;}
+.resign_right .pic1{background:url("../images/icon_thirdparty.png") -11px -6px; height: 29px; width: 29px;}
+.resign_right .pic2{background:url("../images/icon_thirdparty.png") -53px -6px; height: 29px; width: 29px;}
+.resign_right .pic3{background:url("../images/icon_thirdparty.png") -179px -6px; height: 29px; width: 29px;}
+.resign_right .pic4{background:url("../images/icon_thirdparty.png") -138px -6px; height: 29px; width: 29px;}
+

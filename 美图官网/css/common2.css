@@ -1,0 +1,19 @@
+@charset "utf-8";
+ /* CSS Document */
+.pic_top .resign_center .btom .logo_center{min-width: 966px;}
+.pic_wrap{width: 966px; margin: 0 auto;}
+/* ------- pic_top ------- */
+.pic_top{background: url("../images/bg_header.png"); height: 65px; width: 100%;}
+.pic_top .pic_wrap{height: 65px;}
+.resign_logo{background: url("../images/logo.png") no-repeat; width:210px; height: 52px; margin-top: 10px; float: left;}
+.resign_logo .logo1{float: left; height: 52px; width: 108px;}
+.resign_logo .logo2{float: right; height: 52px; width: 94px;}
+.pic_top p{float: right; width: 88px;}
+.pic_top p a{ padding: 0 6px; color: #fff; font: 14px/65px "";}
+.pic_top p span{ color: #fff;}
+
+/* ------- btom ------- */
+.btom{height: 303px; width: 100%;}
+.btom .pic_wrap{height: 303px;}
+.btom p{font: 14px/50px ""; color: #747357; width: 966px; text-align: center;}
+.btom p a{font: 14px/50px ""; color: #4d4d4d;}

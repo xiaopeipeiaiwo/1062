@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* ------- logo_center ------- */
+.log_center{height: 600px; width: 100%; border-bottom: 1px solid #e5e5e5;}
+.log_center .pic_wrap{height: 600px;}
+
+.log_left{width: 594px; height: 600px; float: left;}
+.log_left img{margin-top: 84px; margin-left: 26px;}
+
+.log_right{height: 416px; width: 360px; border: 1px solid #e5e5e5; float: left; margin-top: 55px;}
+.log_right h3{margin-top: 26px; font: 20px/34px ""; color: #434343; margin-left: 38px; }
+.log_right .inp{height: 34px; width: 278px;border:1px solid #e5e5e5; margin-left: 38px; margin-top: 8px; text-indent: 6px; color: #4d4d4d; font: 14px/34px ""; border-radius: 3px; }
+.log_right p{margin-left: 38px;height: 12px; font: 12px/12px ""; color: #4d4d4d; margin-top:12px;}
+.log_right p input{float: left;}
+.log_right p span{font: 12px/12px ""; color: #4d4d4d; margin-left: 4px;}
+.log_right p a{font: 12px/12px ""; color: #fe4172; margin-left: 124px;}
+.log_right h1{height: 46px; border-radius: 3px; background: #fe4172; width: 282px; margin-left: 38px; margin-top: 16px;}
+.log_right h1 a{color: #fff; float: left; font: 18px/46px ""; text-align: center; width: 282px;}
+.log_right h2{font: 14px/40px ""; color: #4d4d4d; margin-top: 12px; height: 40px; margin-left: 38px;}
+.log_right h4{margin-left: 118px; height: 29px; margin-bottom: 40px;}
+.log_right h4 .pic{float: left; margin-right: 15px;}
+.log_right h4 .pic0{background:url("../images/icon_thirdparty.png") -95px -6px; height: 29px; width: 29px;}
+.log_right h4 .pic1{background:url("../images/icon_thirdparty.png") -11px -6px; height: 29px; width: 29px;}
+.log_right h4 .pic2{background:url("../images/icon_thirdparty.png") -179px -6px; height: 29px; width: 29px;}
+.log_right ul li{position: relative;}
+.log_right .error{position: absolute; top:-26px; right:42px; height: 26px; border:1px solid #ff8b34; background: #fdf0e0;  border-radius: 3px; display: none;}
+.log_right .error em{ float:left; background: url("../images/sprite2.png") -2px -179px; width: 12px; height: 12px; margin-right: 5px; margin-left: 11px; margin-top: 8px;}
+.log_right .error span{float: left; font: 12px/26px ""; padding-right: 11px; color: #888;}
+.log_right .arrow_down{ width:0; height:0px; border-left:6px solid transparent; border-right:6px solid transparent; border-top:6px solid #ff8b34; position: absolute; right: 14px; top: 26px;}
+
+.reg{height: 60px; width: 362px; background: #f6f6f6; font: 14px/60px ""; color:#4d4d4d; text-align: center;}
+.reg a{color: #fe4172;}
+
